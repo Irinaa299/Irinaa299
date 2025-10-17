@@ -8,4 +8,4 @@
 - Git
 - JavaScript
 ## Связаться со мной
-grushairina2008@gmail.com
+inst: liritta_
